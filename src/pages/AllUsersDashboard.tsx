@@ -35,7 +35,7 @@ export default function AllUsersDashboard() {
   }
 
   return (
-    <main className="h-full max-h-[calc(100%_-_64px)] overflow-auto bg-[#CEDAE054] px-9 py-4">
+    <main className="h-full max-h-[calc(100%_-_64.8px)] overflow-auto bg-[#CEDAE054] px-9 py-4">
       <div className="flex flex-col items-end justify-start">
         <h2 className="w-full rounded-t-lg border-b-2 border-black bg-white pb-2 pt-[10px] text-center text-xl font-bold shadow">
           All Users

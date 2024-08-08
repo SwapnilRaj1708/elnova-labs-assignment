@@ -56,7 +56,7 @@ export default function Sidebar() {
       <p className="m-0 border-b border-b-[#5C6270] pb-3 pl-3 pr-16 pt-[16px] text-end text-3xl font-normal">
         Assignment
       </p>
-      <div className="flex h-full max-h-[calc(100%_-_60px)] w-full flex-col gap-3 overflow-auto py-3">
+      <div className="flex h-full max-h-[calc(100%_-_64.8px)] w-full flex-col gap-3 overflow-auto py-3">
         {sidebarQuery.isLoading && (
           <div className="flex flex-col gap-3 py-2">
             <p className="pr-16 text-end text-2xl text-[#A1A5B0]">

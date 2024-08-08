@@ -20,7 +20,7 @@ export default function UserDashboard() {
   });
 
   return (
-    <main className="h-full max-h-[calc(100%_-_64px)] overflow-auto bg-[#CEDAE054] px-9 py-4">
+    <main className="h-full max-h-[calc(100%_-_64.8px)] overflow-auto bg-[#CEDAE054] px-9 py-4">
       <div className="flex flex-col items-start justify-start">
         <Link to="/">
           <Button className="mb-6 flex gap-4">
