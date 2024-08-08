@@ -1,4 +1,4 @@
-import Sidebar from "./components/sidebar";
+import Sidebar from "./components/Sidebar";
 import { Route, Routes } from "react-router-dom";
 import AllUsersDashboard from "./pages/AllUsersDashboard";
 import UserDashboard from "./pages/UserDashboard";

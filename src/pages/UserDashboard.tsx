@@ -1,4 +1,4 @@
-import Button from "../components/button";
+import Button from "../components/Button";
 import { useQuery } from "@tanstack/react-query";
 import axios from "axios";
 import { config } from "../apiConfig/User";

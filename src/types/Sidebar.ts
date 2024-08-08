@@ -4,7 +4,7 @@ export type SidebarMenuItem = {
   menuItemName: string;
 };
 
-export type SidebarMenuItemsUpdated = {
+export type SidebarMenuItemsChanged = {
   menuGroupName: string;
   items: { menuItemId: number; menuItemName: string }[];
 };
